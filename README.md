@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Samayo</h1>
+<h1 align="center">Hi 👋, I'm Luis Samayoa</h1>
 <h3 align="center">A passionate Developer from Guatemala</h3>
 
 - 📫 How to reach me **gabriel.samayoale@gmail.com**
